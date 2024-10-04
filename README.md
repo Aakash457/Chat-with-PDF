@@ -46,7 +46,6 @@ To use the MultiPDF Chat App, follow these steps:
 4. Ask questions in natural language about the loaded PDFs using the chat interface.
 
 ## Contributing
-This repository is intended for educational purposes and does not accept further contributions. Feel free to utilize and enhance the app based on your own requirements.
+This repository is intended for educational purposes and does not accept further contributions. Feel free to utilize and enhance the app based on your own requirements. Please consider starring and forking this GitHub repository. This project has been developed by Aakash Yadav. For any inquiries or further information, you can reach out via email at aakashyadav869386@gmail.com. Thank you!
 
-## License
-The MultiPDF Chat App is released under the MIT License.
+
